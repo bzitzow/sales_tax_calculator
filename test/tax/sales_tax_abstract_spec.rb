@@ -34,4 +34,8 @@ describe SalesTaxAbstract do
   end
 end
 
+describe BasicSalesTax do
+  it_behaves_like "SalesTaxAbstract"
+end
+
 
