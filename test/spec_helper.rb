@@ -10,3 +10,4 @@ require_relative '../lib/tax/import_duty_sales_tax'
 require_relative '../lib/tax/tax_policy'
 
 require_relative '../lib/order/order'
+require_relative '../lib/order/receipt'
