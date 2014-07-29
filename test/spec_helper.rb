@@ -8,3 +8,5 @@ require_relative '../lib/tax/sales_tax_abstract'
 require_relative '../lib/tax/basic_sales_tax'
 require_relative '../lib/tax/import_duty_sales_tax'
 require_relative '../lib/tax/tax_policy'
+
+require_relative '../lib/order/order'
