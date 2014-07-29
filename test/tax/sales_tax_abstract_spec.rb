@@ -38,4 +38,6 @@ describe BasicSalesTax do
   it_behaves_like "SalesTaxAbstract"
 end
 
-
+describe ImportDutySalesTax do
+  it_behaves_like "SalesTaxAbstract"
+end
